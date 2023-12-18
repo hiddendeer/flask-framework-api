@@ -1,2 +1,2 @@
 # flask-framework-api
-搭建flask项目.
+搭建flask项目
